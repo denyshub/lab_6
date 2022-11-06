@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dengu\source\repos\lab_6.1_rec\lab_6.1_rec\Source.cpp(31): warning C4715: 'number_of': not all control paths return a value
+C:\Users\dengu\source\repos\lab_6.1_rec\lab_6.1_rec\Source.cpp(44): warning C4715: 'sum_of': not all control paths return a value
+  lab_6.1_rec.vcxproj -> C:\Users\dengu\source\repos\lab_6.1_rec\x64\Debug\lab_6.1_rec.exe
